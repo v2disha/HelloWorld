@@ -16,6 +16,8 @@ namespace HelloWorld
 			Console.WriteLine("My Name is Mitali Mane");
             Console.WriteLine("My Designation is Associate Software Engineer");
 			Console.WriteLine("My Name is Shabharish");
+		    Console.WriteLine("My Name is Shabharish");
+            Console.WriteLine("My designation is Associate software engineer");
         }
     }
 }
