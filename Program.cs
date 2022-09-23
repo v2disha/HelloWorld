@@ -9,12 +9,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("What is your name?");
-			Console.WriteLine("My Name is Suvam Behera");
-            Console.WriteLine("My Designation is Associate Software Engineer");
-			Console.WriteLine("My Name is Chinmay Bonde");
-            Console.WriteLine("My Designation is Associate Software Engineer");
-			Console.WriteLine("My Name is Mitali Mane");
-            Console.WriteLine("My Designation is Associate Software Engineer");
+			Console.WriteLine("My Name is Shabharish");
         }
     }
 }
